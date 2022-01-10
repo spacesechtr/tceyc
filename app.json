@@ -1,9 +1,9 @@
 {
-  "name": "Knowho bot",
+  "name": "TC-EYC",
   "description": "A telegram bot which gather information about phone number(Gather results from both Truecaller and eyecon)",
-  "repository": "https://github.com/agentnova/KnowhoBot",
+  "repository": "https://github.com/spacesechtr/tceyc",
   "logo": "https://raw.githubusercontent.com/agentnova/KnowhoBot/master/logo.jpg",
-  "keywords": ["Truecaller","telegram","telegram bot","bot","pyrogram","knowho bot","information gathering"],
+  "keywords": ["Truecaller","telegram","telegram bot","bot","pyrogram","tceyc","information gathering"],
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token from @Botfather",
